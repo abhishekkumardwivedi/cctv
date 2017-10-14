@@ -1,0 +1,26 @@
+<annotation>
+	<folder>indialicenseplate</folder>
+	<filename>0032.jpg</filename>
+	<path>/home/abhishek/tensorflow4things/training/rawImages/indialicenseplate/0032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>inlp</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>7</ymin>
+			<xmax>250</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>
