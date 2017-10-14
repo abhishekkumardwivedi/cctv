@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sat Oct 14 21:38:25 IST 2017
+2.base=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_
+5.file=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_
+6.file=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/main.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_
+count=7
+0.file=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_/res/layout/server_setting.xml
+5.base=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_
+1.file=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_/res/menu-v11/ipcamera.xml
+1.set=ANDROID_RESOURCE
+2.file=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_
+3.file=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_/res/menu/ipcamera.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_
+4.file=/home/abhishek/cctv/IPCamera/app/build/intermediates/res/debug/resources-debug.ap_/resources.arsc
+0.set=ANDROID_RESOURCE

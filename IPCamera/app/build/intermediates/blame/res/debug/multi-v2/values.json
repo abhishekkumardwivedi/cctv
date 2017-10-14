@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/abhishek/cctv/IPCamera/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/abhishek/cctv/IPCamera/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,8,9,7,10,11,5,6",
+                        "startColumns": "4,4,1,1,1,1,1,1,1",
+                        "startOffsets": "102,56,255,294,224,325,360,152,189",
+                        "endColumns": "52,45,38,30,30,34,53,36,34",
+                        "endOffsets": "150,97,292,323,253,358,412,187,222"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,268,310,344,378,416,473,513",
+                        "endColumns": "52,45,41,33,33,37,56,39,37",
+                        "endOffsets": "217,263,305,339,373,411,468,508,546"
+                    }
+                },
+                {
+                    "source": "/home/abhishek/cctv/IPCamera/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "551,842",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "837,997"
+                    }
+                },
+                {
+                    "source": "/home/abhishek/cctv/IPCamera/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}
