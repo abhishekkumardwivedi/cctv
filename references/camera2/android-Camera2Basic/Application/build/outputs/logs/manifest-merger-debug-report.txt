@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:18:1-47:12
+MERGED from [com.android.support:support-v13:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/23c23c1f9c6248ab4f2f8342e20b24bc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3b17036d23e58de0344eab7f9a51327/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/43471c7c4740cd322a2cdeda9b42f76f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e9f2ecf21d762eec2943950b704ffcaa/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84244afc69b5f101c2fc956fb3fe6242/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7a84f3be2ac680f753a4e31e50f46b7d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a82ed427208481db35df7123327546b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/71a067bbd87cefea028a374c5613122a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/111b6c54f1fd11d3e316481de58db9e9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7644831760e23f77960932ce19e2f88b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c4f92ec72d6dc8132faa59f53044d856/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/52d27ff89b0b46b1e7f27b3d7043a424/AndroidManifest.xml:17:1-30:12
+	package
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:19:5-47
+	xmlns:android
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:26:5-45:19
+MERGED from [com.android.support:support-v13:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/23c23c1f9c6248ab4f2f8342e20b24bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/23c23c1f9c6248ab4f2f8342e20b24bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3b17036d23e58de0344eab7f9a51327/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3b17036d23e58de0344eab7f9a51327/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/43471c7c4740cd322a2cdeda9b42f76f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/43471c7c4740cd322a2cdeda9b42f76f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e9f2ecf21d762eec2943950b704ffcaa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e9f2ecf21d762eec2943950b704ffcaa/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84244afc69b5f101c2fc956fb3fe6242/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84244afc69b5f101c2fc956fb3fe6242/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7a84f3be2ac680f753a4e31e50f46b7d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7a84f3be2ac680f753a4e31e50f46b7d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a82ed427208481db35df7123327546b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a82ed427208481db35df7123327546b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/71a067bbd87cefea028a374c5613122a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/71a067bbd87cefea028a374c5613122a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/111b6c54f1fd11d3e316481de58db9e9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/111b6c54f1fd11d3e316481de58db9e9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7644831760e23f77960932ce19e2f88b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7644831760e23f77960932ce19e2f88b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c4f92ec72d6dc8132faa59f53044d856/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c4f92ec72d6dc8132faa59f53044d856/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/52d27ff89b0b46b1e7f27b3d7043a424/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/52d27ff89b0b46b1e7f27b3d7043a424/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:29:9-45
+activity#com.example.android.camera2basic.CameraActivity
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:31:9-44:20
+	android:label
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:31:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:35:27-74
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.IOT_LAUNCHER
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:39:13-43:29
+category#android.intent.category.IOT_LAUNCHER
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:41:17-80
+	android:name
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:41:27-78
+category#android.intent.category.DEFAULT
+ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:42:17-75
+	android:name
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml:42:27-73
+uses-sdk
+INJECTED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+INJECTED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/23c23c1f9c6248ab4f2f8342e20b24bc/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/23c23c1f9c6248ab4f2f8342e20b24bc/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3b17036d23e58de0344eab7f9a51327/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3b17036d23e58de0344eab7f9a51327/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/43471c7c4740cd322a2cdeda9b42f76f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/43471c7c4740cd322a2cdeda9b42f76f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e9f2ecf21d762eec2943950b704ffcaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e9f2ecf21d762eec2943950b704ffcaa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84244afc69b5f101c2fc956fb3fe6242/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84244afc69b5f101c2fc956fb3fe6242/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7a84f3be2ac680f753a4e31e50f46b7d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7a84f3be2ac680f753a4e31e50f46b7d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a82ed427208481db35df7123327546b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a82ed427208481db35df7123327546b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/71a067bbd87cefea028a374c5613122a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/71a067bbd87cefea028a374c5613122a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/111b6c54f1fd11d3e316481de58db9e9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/111b6c54f1fd11d3e316481de58db9e9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7644831760e23f77960932ce19e2f88b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7644831760e23f77960932ce19e2f88b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c4f92ec72d6dc8132faa59f53044d856/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c4f92ec72d6dc8132faa59f53044d856/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/52d27ff89b0b46b1e7f27b3d7043a424/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/52d27ff89b0b46b1e7f27b3d7043a424/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+INJECTED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/23c23c1f9c6248ab4f2f8342e20b24bc/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		ADDED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/abhishek/android-Camera2Basic/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/23c23c1f9c6248ab4f2f8342e20b24bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3b17036d23e58de0344eab7f9a51327/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f3b17036d23e58de0344eab7f9a51327/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/43471c7c4740cd322a2cdeda9b42f76f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/43471c7c4740cd322a2cdeda9b42f76f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e9f2ecf21d762eec2943950b704ffcaa/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/e9f2ecf21d762eec2943950b704ffcaa/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84244afc69b5f101c2fc956fb3fe6242/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/84244afc69b5f101c2fc956fb3fe6242/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7a84f3be2ac680f753a4e31e50f46b7d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7a84f3be2ac680f753a4e31e50f46b7d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a82ed427208481db35df7123327546b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/2a82ed427208481db35df7123327546b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/71a067bbd87cefea028a374c5613122a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/71a067bbd87cefea028a374c5613122a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/111b6c54f1fd11d3e316481de58db9e9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/111b6c54f1fd11d3e316481de58db9e9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7644831760e23f77960932ce19e2f88b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7644831760e23f77960932ce19e2f88b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c4f92ec72d6dc8132faa59f53044d856/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c4f92ec72d6dc8132faa59f53044d856/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/23c23c1f9c6248ab4f2f8342e20b24bc/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/23c23c1f9c6248ab4f2f8342e20b24bc/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/52d27ff89b0b46b1e7f27b3d7043a424/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/52d27ff89b0b46b1e7f27b3d7043a424/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/abhishek/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/52d27ff89b0b46b1e7f27b3d7043a424/AndroidManifest.xml:26:13-58
